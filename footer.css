@@ -1,0 +1,40 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.footer{
+    background-color: rgb(54, 40, 40);
+    color:white;
+    background: url(pexels-photo-2832084.jpeg);
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+.top{
+    font-size: 20px;
+    padding: 10px;
+}
+.bottom li{
+    padding: 10px;
+    list-style: none;
+}
+.container1{
+    padding-left: 160px;
+    padding-bottom: 30px;
+}
+.container2{
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    height: 100px;
+    border-top: 1px solid white;
+}
+span{
+    color: rgb(144, 229, 171);
+} 
+i{
+    color: rgb(155, 209, 166);
+}
